@@ -1,0 +1,11 @@
+Missile
+Transform
+100.0 100.0 20.0 20.0
+Missile_U
+Sprite
+Textures/missile1.png
+Body
+1.0
+AABB
+20.0 20.0 20.0 20.0
+Wrap_A

@@ -1,0 +1,10 @@
+BlackHole
+Transform
+0.0 0.0 200.0 200.0
+Sprite
+Textures/newB.png
+AsteoridSpawner
+Body
+1.0
+AABB
+200.0 200.0 200.0 200.0

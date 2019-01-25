@@ -1,0 +1,11 @@
+Player
+Transform
+10.0 10.0 35.0 35.0
+Sprite
+Textures/player.png
+Controller
+Body
+1.0
+AABB
+35.0 35.0 35.0 35.0
+Wrap_A

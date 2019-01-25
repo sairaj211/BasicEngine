@@ -1,0 +1,13 @@
+Enemy
+Transform
+10.0 10.0 50.0 50.0
+Sprite
+Textures/enemyShip.png
+UpDown
+0 500 3
+Body
+1.0
+AABB
+50.0 50.0 50.0 50.0
+
+

@@ -1,0 +1,11 @@
+Asteroid
+Transform
+0.0 0.0 100.0 100.0
+Sprite
+Textures/Asteroid.png
+Asteroid_Handler
+Body
+1.0
+AABB
+100.0 100.0 100.0 100.0
+Wrap_A

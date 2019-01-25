@@ -1,0 +1,16 @@
+Archetypes/BackGround.txt
+400.0 300.0
+Archetypes/BlackHole.txt
+100.0 550.0
+Archetypes/Player.txt
+400.0 50.0
+Archetypes/Enemy.txt
+400.0 450.0
+Archetypes/Enemy.txt
+250.0 550.0
+Archetypes/Enemy.txt
+550.0 550.0
+Archetypes/Enemy.txt
+650.0 350.0
+Archetypes/Enemy.txt
+750.0 490.0

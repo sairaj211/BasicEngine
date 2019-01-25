@@ -1,0 +1,10 @@
+Bullet
+Transform
+100.0 100.0 25.0 25.0
+Sprite
+Textures/bullet.png
+Body
+1.0
+AABB
+25.0 25.0 25.0 25.0
+Wrap_D
